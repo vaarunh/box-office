@@ -7,7 +7,9 @@ const MainPageLayout = ({ children }) => {
     <div>
       <Title
         title="Box Office"
+        // eslint-disable-next-line
         subtitle="Are you looking for a movie or an actor?"
+        subtitle="Developed By Varun Herlekar"
       />
       <Navs />
 
